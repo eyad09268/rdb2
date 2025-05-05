@@ -1,6 +1,6 @@
 name: CI33
 
-on: [push, workflow_dispatch]
+on: [push, workflow_dispatch] 
 
 jobs:
   build:
